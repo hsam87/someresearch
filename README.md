@@ -1,2 +1,2 @@
 # someresearch
-test repo
+test.php repo
